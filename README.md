@@ -1,14 +1,14 @@
 # Medium Writeup Fetcher
-This script fetches new writeup from medium. <br />
+This script fetches a new writeup from Medium. <br />
 # Installation and Configuration (python 3)
-> make ure that MongoDB is installed.
+> Make sure that MongoDB is installed.
 ```bash
 git clone https://github.com/ahsraeisi/writeup-fetch.git
 cd writeup-fetch
 pip install -r requirements.txt
 ```
 ## Edit config.ini file
-The Writeup Fetcher uses a configuration file named `config.ini` to save infrormation that is needed to run it.
+The Writeup Fetcher uses a configuration file named `config.ini` to save information that is needed to run it.
 
-## customize your URLs
-add, Delete and modify URLs that you want and you don't at `URLs.txt` file.
+## Customize your URLs
+Add, Delete, and modify URLs that you want and don't in the `URLs.txt` file.
