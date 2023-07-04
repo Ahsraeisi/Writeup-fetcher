@@ -1,5 +1,5 @@
 # Medium Writeup Fetcher
-This script fetches a new writeup from Medium. <br />
+This script fetches new writeups from Medium. <br />
 # Installation and Configuration (python 3)
 > Make sure that MongoDB is installed.
 ```bash
